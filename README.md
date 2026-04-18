@@ -74,15 +74,14 @@ Displays frequency of categories such as road type and traffic density.
 ### Boxplot
 
 Used to detect outliers and understand data spread.
-📸 App Screenshot
-
+![Boxplot](images/boxplot.png)
 ---
 
 ### Heatmap
 
 Shows correlation between variables and highlights strong relationships.
-![Heatmap](images/heatmap.png)
 
+![Heatmap](images/heatmap.png)
 ---
 
 ## 💡 Key Insights
