@@ -60,8 +60,7 @@ EDA helps in understanding the structure and behavior of the dataset.
 
 ### Histogram
 
-Shows the distribution of numerical features like speed and age.
-📸 App Screenshot
+![Heatmap](images/heatmap.png)
 
 ---
 
