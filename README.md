@@ -60,15 +60,15 @@ EDA helps in understanding the structure and behavior of the dataset.
 
 ### Histogram
 
-![Heatmap](images/heatmap.png)
+![Histogram](images/histogram.png)
 
 ---
 
 ### Bar Chart
 
 Displays frequency of categories such as road type and traffic density.
-📸 App Screenshot
 
+![Bar Chart](images/bar_chart.png)
 ---
 
 ### Boxplot
@@ -81,7 +81,7 @@ Used to detect outliers and understand data spread.
 ### Heatmap
 
 Shows correlation between variables and highlights strong relationships.
-📸 App Screenshot
+![Heatmap](images/heatmap.png)
 
 ---
 
