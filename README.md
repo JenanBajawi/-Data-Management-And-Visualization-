@@ -51,7 +51,6 @@ EDA helps in understanding the structure and behavior of the dataset.
 * Feature relationships
 * Correlation analysis
 
-📸 App Screenshot
 
 ---
 
