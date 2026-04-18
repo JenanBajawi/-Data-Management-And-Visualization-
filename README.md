@@ -38,7 +38,6 @@ Data cleaning is used to prepare the dataset for accurate analysis.
 * Detected and removed outliers using IQR
 * Converted categorical variables into numerical format
 
-📸 App Screenshot
 
 ---
 
